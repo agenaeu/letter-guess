@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+}
+h1, h6 {
+    font-family: 'Noto Serif JP', sans-serif;
+}
+h6 {
+    color: white;
+}
+.backgroundImage {
+    background: url(../images/psychic_img.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0px;
+}
